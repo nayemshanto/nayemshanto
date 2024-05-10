@@ -20,10 +20,10 @@ Skills: PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://www.facebook.com/md.nayem.shanto.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayemshanto333" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nayemshanto333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayemshanto3331" height="30" width="40" /></a>
-<a href="https://instagram.com/nayemshanto58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayemshanto333" height="30" width="40" /></a>
-<a href="https://www.behance.net/nayemshanto333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nayemshanto333" height="30" width="40" /></a>
+<a href="https://www.facebook.com/md.nayem.shanto.71" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayemshanto333" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nayemshanto333/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayemshanto3331" height="30" width="40" /></a>
+<a href="https://instagram.com/nayemshanto58" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayemshanto333" height="30" width="40" /></a>
+<a href="https://www.behance.net/nayemshanto333" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nayemshanto333" height="30" width="40" /></a>
 </p> 
 
 ## Use To Code
