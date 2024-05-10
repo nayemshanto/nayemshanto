@@ -21,7 +21,7 @@ Skills: PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <p align="center">
 <a href="https://www.facebook.com/md.nayem.shanto.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayemshanto333" height="30" width="40" /></a>
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayemshanto3331" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nayemshanto333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayemshanto3331" height="30" width="40" /></a>
 <a href="https://instagram.com/nayemshanto58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayemshanto333" height="30" width="40" /></a>
 <a href="https://www.behance.net/nayemshanto333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nayemshanto333" height="30" width="40" /></a>
 </p> 
@@ -89,5 +89,8 @@ Skills: PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 </a>  
 <a href="https://instagram.com/nayemshanto58" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%232E87FB.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px; margin-right: 2px;" />
+</a> 
+<a href="https://www.linkedin.com/in/nayemshanto333" target="_blank">
+<img src=https://img.shields.io/badge/linkdin-%232E87FB.svg?&style=for-the-badge&logo=linkdin&logoColor=white alt=linkdin style="margin-bottom: 5px; margin-right: 2px;" />
 </a> 
 </div>
