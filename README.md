@@ -83,8 +83,11 @@ Skills: PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 <!--<a href="https://www.linkedin.com/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a> -->
-<a href="https://instagram.com/nayemshanto58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayemshanto333" height="30" width="40" /></a>
+
 <a href="https://www.facebook.com/md.nayem.shanto.71" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
+<a href="https://instagram.com/nayemshanto58" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
+</a> 
 </div>
