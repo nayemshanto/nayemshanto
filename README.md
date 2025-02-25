@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm Md. Nayem Islam (shanto)</h1>
-<h3 align="center">Programmer | Web Designer | Graphic Designer</h3>
+<h3 align="center">Front-End Developer | Programmer | Designer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nayemshanto333&label=Profile%20views&color=0e75b6&style=flat" alt="nayemshanto333" /> </p>
 
 
