@@ -9,22 +9,22 @@
 
 - 🌱 I’m currently learning **Java, Python, C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nayemshanto333](https://github.com/nayemshanto)
+- 👨‍💻 All of my projects are available at [https://github.com/nayemshanto](https://github.com/nayemshanto)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, Tailwind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nayemshanto333/" target="_blank">
+  <a href="https://www.linkedin.com/in/nayemshanto/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/md.nayem.shanto.71" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/nayemshanto333/" target="_blank">
+  <a href="https://www.instagram.com/nayemshanto/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.behance.net/nayemshanto333" target="_blank">
+  <a href="https://www.behance.net/nayemshanto" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
   </a>
 </p>
@@ -48,13 +48,13 @@
 
 </p>
 <hr/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayemshanto333&show_icons=true&locale=en&layout=compact" alt="nayemshanto333" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayemshanto&show_icons=true&locale=en&layout=compact" alt="nayemshanto" /></p>
 
 
 <hr/>
 
 <p align="left">
-  <a href="https://github.com/nayemshanto333?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/nayemshanto?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <hr/>
