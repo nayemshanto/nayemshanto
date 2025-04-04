@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Python, C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nayemshanto333](https://github.com/nayemshanto333)
+- 👨‍💻 All of my projects are available at [https://github.com/nayemshanto333](https://github.com/nayemshanto)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, Tailwind**
 
